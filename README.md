@@ -1,1 +1,5 @@
-*`custom_CNN_with_PyTorch` and `MiniVGG` are the same programme.
+*The programs referenced in my thesis are the following three:
+
+'https://github.com/keita-sa/problems_CSCI673/blob/main/ResNet_ver8_Nov20.ipynb'
+'https://github.com/keita-sa/problems_CSCI673/blob/main/MiniVGG_ver6_Nov13.ipynb'
+'https://github.com/keita-sa/problems_CSCI673/blob/main/YOLO_ver_9_Nov20.ipynb'
